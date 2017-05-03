@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduction</title>
+    <link>https://sunhammer.github.io/</link>
+    <description>Recent content on Introduction</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 May 2017 14:26:06 -0600</lastBuildDate>
+    
+	<atom:link href="https://sunhammer.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>contact</title>
+      <link>https://sunhammer.github.io/contact/</link>
+      <pubDate>Wed, 03 May 2017 14:26:06 -0600</pubDate>
+      
+      <guid>https://sunhammer.github.io/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://sunhammer.github.io/about/</link>
+      <pubDate>Wed, 03 May 2017 14:25:59 -0600</pubDate>
+      
+      <guid>https://sunhammer.github.io/about/</guid>
+      <description>Eric Mitchell Software Engineer Technical Experience Languages Proficient in: C#, Java, C++, XML, and ActionScript Familiar with: JavaScript, HTML, CSS, JSON, and PHP
+Other Microsoft Visual Studio, Eclipse, Net Beans Microsoft Windows and Linux
+SQL Databases, SQLite, Cassandra Android development Automating tests with Sikuli Team Foundation Server InstallShield WCF Experience with ASP.NET and JQuery
+Professional Experience BYU Broadcasting, Provo, UT Software Engineer, March 2016 - Present Develop api services for byu broadcasting sites Lead a team of student developers Train student developers</description>
+    </item>
+    
+  </channel>
+</rss>
